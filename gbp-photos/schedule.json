@@ -1,0 +1,165 @@
+{
+ "location_id": 96639,
+ "photos": [
+  "light-fixture-installation-after-photo-1-job-20349-1.jpg",
+  "ev-charger-installation-after-photo-1-job-20418-1.jpg",
+  "switch-installation-after-photo-1-job-20415.jpg",
+  "meter-base-replacement-after-photo-1-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20407-1.jpg",
+  "whole-home-surge-protector-installation-after-photo-1-job-20398.jpg",
+  "dedicated-circuit-installation-after-photo-1-job-20307-2.jpg",
+  "panel-replacement-after-photo-1-job-20481.jpg",
+  "whole-home-rewire-after-photo-1-job-20030-10.jpg",
+  "service-grounding-system-during-photo-1-job-20508.jpg",
+  "smoke-detector-replacement-during-photo-1-job-20444.jpg",
+  "light-fixture-installation-after-photo-1-job-20349-2.jpg",
+  "ev-charger-installation-after-photo-1-job-20445-1.jpg",
+  "switch-installation-after-photo-1-job-20429.jpg",
+  "meter-base-replacement-after-photo-2-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20407-2.jpg",
+  "whole-home-surge-protector-installation-after-photo-1-job-20459.jpg",
+  "dedicated-circuit-installation-after-photo-1-job-20307-3.jpg",
+  "panel-replacement-during-photo-1-job-20481.jpg",
+  "whole-home-rewire-after-photo-2-job-20030-10.jpg",
+  "light-fixture-installation-after-photo-1-job-20349-3.jpg",
+  "ev-charger-installation-after-photo-1-job-20509.jpg",
+  "switch-installation-after-photo-1-job-20545.jpg",
+  "meter-base-replacement-after-photo-3-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20436.jpg",
+  "whole-home-surge-protector-installation-after-photo-1-job-20560.jpg",
+  "dedicated-circuit-installation-after-photo-2-job-20307-2.jpg",
+  "light-fixture-installation-after-photo-1-job-20383.jpg",
+  "ev-charger-installation-after-photo-1-job-20558.jpg",
+  "switch-installation-after-photo-2-job-20429.jpg",
+  "meter-base-replacement-after-photo-4-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20452.jpg",
+  "whole-home-surge-protector-installation-after-photo-2-job-20459.jpg",
+  "dedicated-circuit-installation-after-photo-3-job-20307-2.jpg",
+  "light-fixture-installation-after-photo-1-job-20462.jpg",
+  "ev-charger-installation-after-photo-2-job-20418-1.jpg",
+  "switch-installation-after-photo-2-job-20545.jpg",
+  "meter-base-replacement-after-photo-5-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20504.jpg",
+  "whole-home-surge-protector-installation-during-photo-1-job-20456.jpg",
+  "dedicated-circuit-installation-after-photo-4-job-20307-2.jpg",
+  "light-fixture-installation-after-photo-1-job-20498.jpg",
+  "ev-charger-installation-after-photo-2-job-20445-1.jpg",
+  "switch-installation-after-photo-3-job-20429.jpg",
+  "meter-base-replacement-during-photo-1-job-20231.jpg",
+  "outlet-installation-after-photo-1-job-20505.jpg",
+  "whole-home-surge-protector-installation-during-photo-1-job-20459.jpg",
+  "light-fixture-installation-after-photo-2-job-20349-2.jpg",
+  "ev-charger-installation-after-photo-2-job-20558.jpg",
+  "switch-installation-after-photo-3-job-20545.jpg",
+  "meter-base-replacement-during-photo-2-job-20231.jpg",
+  "outlet-installation-after-photo-2-job-20505.jpg",
+  "whole-home-surge-protector-installation-during-photo-1-job-20560.jpg",
+  "light-fixture-installation-after-photo-2-job-20349-3.jpg",
+  "ev-charger-installation-after-photo-3-job-20418-1.jpg",
+  "switch-installation-after-photo-4-job-20545.jpg",
+  "light-fixture-installation-after-photo-2-job-20462.jpg",
+  "ev-charger-installation-after-photo-4-job-20418-1.jpg",
+  "light-fixture-installation-after-photo-2-job-20498.jpg"
+ ],
+ "schedule": {
+  "2026-10-08": [
+   "light-fixture-installation-after-photo-1-job-20349-1.jpg",
+   "ev-charger-installation-after-photo-1-job-20418-1.jpg",
+   "switch-installation-after-photo-1-job-20415.jpg"
+  ],
+  "2026-10-09": [
+   "meter-base-replacement-after-photo-1-job-20231.jpg",
+   "outlet-installation-after-photo-1-job-20407-1.jpg",
+   "whole-home-surge-protector-installation-after-photo-1-job-20398.jpg"
+  ],
+  "2026-10-12": [
+   "dedicated-circuit-installation-after-photo-1-job-20307-2.jpg",
+   "panel-replacement-after-photo-1-job-20481.jpg",
+   "whole-home-rewire-after-photo-1-job-20030-10.jpg"
+  ],
+  "2026-10-13": [
+   "service-grounding-system-during-photo-1-job-20508.jpg",
+   "smoke-detector-replacement-during-photo-1-job-20444.jpg",
+   "light-fixture-installation-after-photo-1-job-20349-2.jpg"
+  ],
+  "2026-10-15": [
+   "ev-charger-installation-after-photo-1-job-20445-1.jpg",
+   "switch-installation-after-photo-1-job-20429.jpg",
+   "meter-base-replacement-after-photo-2-job-20231.jpg"
+  ],
+  "2026-10-16": [
+   "outlet-installation-after-photo-1-job-20407-2.jpg",
+   "whole-home-surge-protector-installation-after-photo-1-job-20459.jpg",
+   "dedicated-circuit-installation-after-photo-1-job-20307-3.jpg"
+  ],
+  "2026-10-19": [
+   "panel-replacement-during-photo-1-job-20481.jpg",
+   "whole-home-rewire-after-photo-2-job-20030-10.jpg",
+   "light-fixture-installation-after-photo-1-job-20349-3.jpg"
+  ],
+  "2026-10-20": [
+   "ev-charger-installation-after-photo-1-job-20509.jpg",
+   "switch-installation-after-photo-1-job-20545.jpg",
+   "meter-base-replacement-after-photo-3-job-20231.jpg"
+  ],
+  "2026-10-22": [
+   "outlet-installation-after-photo-1-job-20436.jpg",
+   "whole-home-surge-protector-installation-after-photo-1-job-20560.jpg",
+   "dedicated-circuit-installation-after-photo-2-job-20307-2.jpg"
+  ],
+  "2026-10-23": [
+   "light-fixture-installation-after-photo-1-job-20383.jpg",
+   "ev-charger-installation-after-photo-1-job-20558.jpg",
+   "switch-installation-after-photo-2-job-20429.jpg"
+  ],
+  "2026-10-26": [
+   "meter-base-replacement-after-photo-4-job-20231.jpg",
+   "outlet-installation-after-photo-1-job-20452.jpg",
+   "whole-home-surge-protector-installation-after-photo-2-job-20459.jpg"
+  ],
+  "2026-10-27": [
+   "dedicated-circuit-installation-after-photo-3-job-20307-2.jpg",
+   "light-fixture-installation-after-photo-1-job-20462.jpg",
+   "ev-charger-installation-after-photo-2-job-20418-1.jpg"
+  ],
+  "2026-10-29": [
+   "switch-installation-after-photo-2-job-20545.jpg",
+   "meter-base-replacement-after-photo-5-job-20231.jpg",
+   "outlet-installation-after-photo-1-job-20504.jpg"
+  ],
+  "2026-10-30": [
+   "whole-home-surge-protector-installation-during-photo-1-job-20456.jpg",
+   "dedicated-circuit-installation-after-photo-4-job-20307-2.jpg",
+   "light-fixture-installation-after-photo-1-job-20498.jpg"
+  ],
+  "2026-11-02": [
+   "ev-charger-installation-after-photo-2-job-20445-1.jpg",
+   "switch-installation-after-photo-3-job-20429.jpg",
+   "meter-base-replacement-during-photo-1-job-20231.jpg"
+  ],
+  "2026-11-03": [
+   "outlet-installation-after-photo-1-job-20505.jpg",
+   "whole-home-surge-protector-installation-during-photo-1-job-20459.jpg",
+   "light-fixture-installation-after-photo-2-job-20349-2.jpg"
+  ],
+  "2026-11-05": [
+   "ev-charger-installation-after-photo-2-job-20558.jpg",
+   "switch-installation-after-photo-3-job-20545.jpg",
+   "meter-base-replacement-during-photo-2-job-20231.jpg"
+  ],
+  "2026-11-06": [
+   "outlet-installation-after-photo-2-job-20505.jpg",
+   "whole-home-surge-protector-installation-during-photo-1-job-20560.jpg",
+   "light-fixture-installation-after-photo-2-job-20349-3.jpg"
+  ],
+  "2026-11-09": [
+   "ev-charger-installation-after-photo-3-job-20418-1.jpg",
+   "switch-installation-after-photo-4-job-20545.jpg",
+   "light-fixture-installation-after-photo-2-job-20462.jpg"
+  ],
+  "2026-11-10": [
+   "ev-charger-installation-after-photo-4-job-20418-1.jpg",
+   "light-fixture-installation-after-photo-2-job-20498.jpg"
+  ]
+ }
+}
